@@ -20,5 +20,6 @@ public class Ahorcado {
 	            }else if(opcion.equals(2)){                 resultado = a - b; 
 	            }else if(opcion.equals(3)){                 resultado = a * b;
 	            }else{                 resultado = a / b;             }  
-	            System.out.println("El resultado es " + resultado.toString());     }
+	            System.out.println("El resultado es " + resultado.toString());   
+	            System.out.println("hice un cambio");}
 }
